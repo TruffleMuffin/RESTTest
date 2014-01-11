@@ -1,0 +1,23 @@
+﻿{
+	"series": "Service Endpoint",
+    "tests": [
+       {
+		   "name": "Service List without parameters is empty",
+		   "verb": "GET",
+		   "pass":{
+			   "content": {
+				   // various properties
+			   }
+			}
+		},
+		{
+		   "name": "Service List without parameters is empty",
+		   "verb": "GET",
+		   "pass":{
+			   "content": {
+				   // various properties
+			   }
+			}
+		}
+     ]
+}

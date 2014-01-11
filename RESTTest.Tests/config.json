@@ -1,0 +1,12 @@
+﻿{
+	"authentication":
+		{
+			"type": "basic",
+			"username": "trufflemuffin",
+			"password": "password"
+		},
+	"headers":
+		{
+			"Content-Type": "application/json"
+		}
+}
